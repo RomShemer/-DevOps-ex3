@@ -1,7 +1,7 @@
 public class RomShemer{
   public static void main(String[] args) {
       for(int i=1; i<=10; i++){
-	      System.out.println("Rom Shemer ("+i+")");
+	      System.out.println("Rom Shemer- version 2 ("+i+")");
 	  }
   }
 }
